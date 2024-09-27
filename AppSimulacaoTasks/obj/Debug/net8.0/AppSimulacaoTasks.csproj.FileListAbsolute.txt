@@ -1,0 +1,14 @@
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\bin\Debug\net8.0\AppSimulacaoTasks.exe
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\bin\Debug\net8.0\AppSimulacaoTasks.deps.json
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\bin\Debug\net8.0\AppSimulacaoTasks.runtimeconfig.json
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\bin\Debug\net8.0\AppSimulacaoTasks.dll
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\bin\Debug\net8.0\AppSimulacaoTasks.pdb
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\AppSimulacaoTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\AppSimulacaoTasks.AssemblyInfoInputs.cache
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\AppSimulacaoTasks.AssemblyInfo.cs
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\AppSimulacaoTasks.csproj.CoreCompileInputs.cache
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\AppSimulacaoTasks.dll
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\refint\AppSimulacaoTasks.dll
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\AppSimulacaoTasks.pdb
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\AppSimulacaoTasks.genruntimeconfig.cache
+C:\Codgo\AppSimulacaoTasks\AppSimulacaoTasks\obj\Debug\net8.0\ref\AppSimulacaoTasks.dll
