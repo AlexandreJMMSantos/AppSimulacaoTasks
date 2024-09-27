@@ -26,7 +26,7 @@ class Program
 
         Console.ResetColor();
 
-        Console.WriteLine("Todas as tarefas foram processadas.");
+        Console.WriteLine("Fim processamento...");
     }
 
     static async Task ProcessamentoAsync(int indexTask)
